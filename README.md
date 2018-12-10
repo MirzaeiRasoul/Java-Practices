@@ -11,3 +11,6 @@ This repo created for implement java practices.
 
 ## Abstract Class vs Java 8 Interface
 After having default and static methods inside the interface, we think about the need of abstract class in Java. An interface and an abstract class is almost similar except that you can create constructor in the abstract class whereas you can't do this in interface.
+
+### Abstract Class vs Java 8 Interface
+After having default and static methods inside the interface, we think about the need of abstract class in Java. An interface and an abstract class is almost similar except that you can create constructor in the abstract class whereas you can't do this in interface.
