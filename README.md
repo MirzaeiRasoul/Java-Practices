@@ -2,7 +2,7 @@
 
 This repo created for implement java practices.
 
-## Examples:
+## Examples
 * Multiple Inheritance: [Java and Multiple Inheritance](https://www.geeksforgeeks.org/java-and-multiple-inheritance/)
 * Interface Default Method: [Interface Default Methods in Java 8](https://dzone.com/articles/interface-default-methods-java/)
 * Interface Static Method
